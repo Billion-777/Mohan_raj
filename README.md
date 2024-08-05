@@ -1,16 +1,16 @@
 # Mohan_raj
 
 <h1 align="center">Hi 👋, I'm Mohan Raj</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 
-<img align="right" alt="coding" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billion-777" alt="billion-777" /></a> </p>
+<img align="center" alt="coding" height=""  width="1200"   src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billion-777" alt="billion-777" /></a> </p>
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
-- 📫 How to reach me **BigBillion777@gmail.com**
+- 📫 How to reach me **BigBillion777@gmail.com/malinipriyaraj2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
